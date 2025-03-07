@@ -1,13 +1,13 @@
 /// week01-1.cpp
-/// ¦bºÆ¨gµ{³](½m²ß)¼g¦nªºcode¡A¥ş¿ï¡Actrl+c
-/// Codeblocks File-New-Empty ªÅ¥ÕÀÉ®×¡Actrl+s¦sÀÉ
-#include <stdio.h>///¨Ï¥Îstandard ¼Ğ·Ç input/output
+/// åœ¨ç˜‹ç‹‚ç¨‹è¨­(ç·´ç¿’)å¯«å¥½çš„codeï¼Œå…¨é¸ï¼Œctrl+c
+/// Codeblocks File-New-Empty ç©ºç™½æª”æ¡ˆï¼Œctrl+så­˜æª”
+#include <stdio.h>///ä½¿ç”¨standard æ¨™æº– input/output
 
 int main(){
 
-	int a, b;/// ¾ã¼Æ a, b
-	scanf("%d%d", &a, &b);///½Õ¤J¸ê®Æ(¤p¤ß "%d%d" «á­±¡u³r¸¹¡v)
-	/// ¨â­Ó%d%d  &   &
-	printf("%d", a + b); /// ¦L¥X¸ê®Æ, §âµª®×¦L¥X¨Ó
+	int a, b;/// æ•´æ•¸ a, b
+	scanf("%d%d", &a, &b);///èª¿å…¥è³‡æ–™(å°å¿ƒ "%d%d" å¾Œé¢ã€Œé€—è™Ÿã€)
+	/// å…©å€‹%d%d  &   &
+	printf("%d", a + b); /// å°å‡ºè³‡æ–™, æŠŠç­”æ¡ˆå°å‡ºä¾†
 
 }
